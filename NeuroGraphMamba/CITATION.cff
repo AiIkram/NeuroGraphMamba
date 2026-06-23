@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "NeuroGraphMamba: A Spatial-Temporal Graph State-Space Architecture for Patient-Independent Epileptic Seizure Detection"
+authors:
+  - name: "Anonymous (withheld for double-blind review)"
+date-released: 2026-01-01
+license: MIT

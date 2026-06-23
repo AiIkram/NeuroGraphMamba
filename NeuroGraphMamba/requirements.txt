@@ -1,0 +1,14 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+torch>=2.1
+tqdm>=4.65
+mne>=1.5
+PyWavelets>=1.4
+# Optional — only needed if you want the real Mamba SSM kernel instead of
+# the CNN/GCN-only ablation path. Requires a CUDA build; skip on CPU-only
+# or Apple Silicon machines.
+# mamba-ssm>=1.2
