@@ -79,9 +79,7 @@ class Config:
     run_calibration     = True
     run_xai             = True
 
-    # ── PATHS — EDIT THESE FOR YOUR ENVIRONMENT ───────────────────────
-    # Never commit real paths containing identifying usernames/orgs if
-    # this repo is shared during double-blind review.
+    # ── PATHS ───────────────────────
     chbmit_path = os.environ.get("CHBMIT_PATH", "/path/to/chbmit/1.0.0")
     siena_path  = os.environ.get("SIENA_PATH",  "/path/to/siena")
     out_path    = os.environ.get("NGM_OUT_PATH", "./outputs")
