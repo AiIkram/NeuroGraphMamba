@@ -91,7 +91,7 @@ python scripts/run_siena_zero_shot.py --checkpoint outputs/best_LOPO_chb01.pth
                Architecture for Patient-Independent Epileptic Seizure
                Detection},
   author    = {Anonymous},
-  booktitle = {MICCAI AIMI Workshop},
+  booktitle = {MICCAI AMAI Workshop},
   year      = {2026}
 }
 ```
